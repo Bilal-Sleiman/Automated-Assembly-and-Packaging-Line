@@ -1,4 +1,7 @@
-# Description of Video Part 1 \
+# Overall Description 
+
+
+# Description of Video Part 1 
 This video provides an overview of the automated assembly line, showcasing the layout of sensors, counter displays, machines, and conveyors. It is followed by a presentation of the control logic implemented using the Control I/O interface in Factory I/O. The video first introduces the system's operational flow, then transitions to the Control I/O panel to explain the program structure, I/O mapping, and the sequencing logic. The control program utilizes key automation functions such as Set/Reset latches, counters, on-delay and off-delay timers, as well as rising and falling edge triggers all coordinated to manage the assembly and batch packaging process.
 
-# Description of Video Part 2 \
+# Description of Video Part 2 
